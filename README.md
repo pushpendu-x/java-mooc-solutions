@@ -2,4 +2,4 @@
 My solutions for the University of Helsinki Java Programming MOOC.
 
 ## Progress
-- [x] Part 01
+- [ ] Part 01
